@@ -4,3 +4,42 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Generics */ 
+body {
+    background-color: #191d7b;
+}
+
+h1, 
+h2,
+p {
+    color: white;
+}
+
+/* Jumbotron & Call to action */
+.banner {
+    width: 100%;
+}
+
+.call-to-action {
+    width: 350px;
+    padding: 25px;
+    margin: 35px auto;
+    text-align: center;
+}
+
+/* Card style */ 
+.card {
+    width: 350px;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 35px auto;
+    background-color: blue;
+}
+
+/* Videos size and style*/ 
+
+.video-style {
+    width: 80%;
+    border-radius: 20px;
+}
