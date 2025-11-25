@@ -10,11 +10,29 @@ body {
     background-color: #191d7b;
 }
 
-h1, 
+h1,
 h2,
 p {
     color: white;
 }
+
+.title-font {
+    font-family: "Sigmar", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 32px;
+    line-height: 30px;
+}
+
+.paragraph-font {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px
+}
+
+
 
 /* Jumbotron & Call to action */
 .banner {
