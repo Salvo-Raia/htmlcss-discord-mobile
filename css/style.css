@@ -38,8 +38,26 @@ body {
 .call-to-action {
     width: 350px;
     padding: 25px;
-    margin: 35px auto;
+    margin: 20px auto;
     text-align: center;
+}
+
+/* Button style */ 
+.button-style {
+    border-radius: 10px;
+    border: transparent;
+    width: 250px;
+    padding: 10px 8px;
+    margin-top: 10px;
+}
+
+.button-white {
+    color: black;
+    background-color: white;
+}
+
+.button-blue {
+    background-color: #5460E8;
 }
 
 /* Card style */ 
@@ -47,7 +65,7 @@ body {
     width: 350px;
     border-radius: 20px;
     padding: 50px 25px;
-    margin: 50px auto;
+    margin: 40px auto;
     background-image: linear-gradient(to bottom, #333691, #5460E8);
     position: relative;
 }
@@ -60,9 +78,33 @@ body {
     translate: -50% -50%;
 }
 
-/* Videos size and style*/ 
+/* Videos size and style */ 
 .video-style {
     width: 100%;
     border-radius: 20px;
     margin-top: 20px;
 }
+
+/* Discord agent */
+.discord-agent {
+    height: 60px;
+    width: 60px;
+    background-image: linear-gradient(to bottom, #333691, #5460E8);
+    border: 1px solid white;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.discord-agent img {
+    display: block;
+    height: 100%;
+    width: auto;
+    margin: 0 auto;
+}
+
+.discord-agent:hover {
+    transform: scale(1.1);
+}
+
