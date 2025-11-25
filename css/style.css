@@ -32,23 +32,25 @@ body {
 
 /* Jumbotron & Call to action */
 .banner {
-    width: 100%;
+    display: block;
+    max-width: 100%;
 }
 
 .call-to-action {
+    text-align: center;
     width: 350px;
     padding: 25px;
-    margin: 20px auto;
-    text-align: center;
+    margin: 25px auto 5px auto;
+    
 }
 
 /* Button style */ 
 .button-style {
-    border-radius: 10px;
-    border: transparent;
     width: 250px;
+    border: transparent;
+    border-radius: 10px;
     padding: 10px 8px;
-    margin-top: 10px;
+    margin-top: 10px;  
 }
 
 .button-white {
@@ -64,9 +66,10 @@ body {
 .card {
     width: 350px;
     border-radius: 20px;
-    padding: 50px 25px;
-    margin: 40px auto;
     background-image: linear-gradient(to bottom, #333691, #5460E8);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    padding: 50px 25px;
+    margin: 25px auto 50px auto;
     position: relative;
 }
 
@@ -86,32 +89,32 @@ body {
 }
 
 /* Discord agent */
-.discord-agent {
-    height: 60px;
+.discord-agent-box {
     width: 60px;
+    height: 60px;
     background-image: linear-gradient(to bottom, #333691, #5460E8);
     border: 1px solid white;
     border-radius: 50%;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
     position: fixed;
     bottom: 20px;
     right: 20px;
 }
 
-.discord-agent img {
+.discord-agent-box img {
     display: block;
     height: 100%;
-    width: auto;
     margin: 0 auto;
 }
 
-.discord-agent:hover {
+.discord-agent-box:hover {
     transform: scale(1.1);
 }
 
 /* Footer */ 
 footer {
-    margin-bottom: 20px;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 footer img {
