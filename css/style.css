@@ -33,14 +33,14 @@ body {
 /* Jumbotron & Call to action */
 .banner {
     display: block;
-    max-width: 100%;
+    width: 100%;
 }
 
 .call-to-action {
     text-align: center;
     width: 350px;
     padding: 25px;
-    margin: 25px auto 5px auto;
+    margin: 25px auto 0px auto;
     
 }
 
@@ -50,7 +50,11 @@ body {
     border: transparent;
     border-radius: 10px;
     padding: 10px 8px;
-    margin-top: 10px;  
+    margin-top: 10px;
+}  
+
+.button-style:hover {
+    transform: scale(1.1);
 }
 
 .button-white {
@@ -111,10 +115,39 @@ body {
     transform: scale(1.1);
 }
 
-/* Footer */ 
+.faq {
+    width: 350px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom, #333691, #5460E8);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    padding: 25px 25px;
+    margin: 0 auto 25px auto;
+    position: relative;
+}
+
+.faq a,
+.faq ul {
+    list-style: none;
+    text-decoration: none;
+    line-height: 20px;
+    font-weight: 500;
+    color: white;
+}
+
+.faq a:hover {
+    color: rgb(0, 140, 255);
+}
+
+/* Footer - FAQ section*/ 
 footer {
     text-align: center;
     margin-bottom: 20px;
+}
+
+footer p {
+    font-size: 10px;
+    color: white;
+    margin-top: 8px;
 }
 
 footer img {
