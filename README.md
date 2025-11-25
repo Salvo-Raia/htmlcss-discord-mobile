@@ -24,5 +24,3 @@ Osserviamo l’immagine `bonus.png` per replicare i seguenti bonus.
 
 * Invece di inserire un’immagine nelle card, proviamo ad inserire un video che parte in automatico all’avvio della pagina e che si ripete in loop.
 
-Buon Lavoro e buon divertimento!
-
