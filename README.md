@@ -1,7 +1,9 @@
 # Esercizio: Discord mobile
+
 Nome repo: `htmlcss-discord-mobile`
 
 ## Consegna
+
 Proviamo a riprodurre il layout in allegato, sfruttando le proprietà imparate finora. 
 
 **Ricordate di lavorare con dimensione fissa a 512px!**
