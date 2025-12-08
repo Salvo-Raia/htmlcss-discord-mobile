@@ -8,7 +8,7 @@ Proviamo a riprodurre il layout in allegato, sfruttando le proprietà imparate f
 
 **Ricordate di lavorare con dimensione fissa a 512px!**
 
-**Note:**
+**Note**
 
 * I font utilizzati sono:  DM Sans e Sigmar, entrambi reperibili su Google Fonts
 
