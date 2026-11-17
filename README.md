@@ -1,6 +1,6 @@
-![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 04/50 - Discord Mobile
+# 🎓 Exercise 04/50: Discord Mobile
 
 Recreating the Discord mobile layout using HTML and CSS.
 
@@ -19,7 +19,7 @@ Recreate the provided Discord mobile layout using the CSS properties and techniq
 
 Remember to work with a fixed width of `512px`.
 
-### 📝 Notes
+### 🔎 Notes
 
 - The fonts used are **DM Sans** and **Sigmar**, both available on Google Fonts.
 - The download icon was created using **Bootstrap Icons**.
@@ -49,4 +49,4 @@ Some of these challenges will require a bit of research!
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
