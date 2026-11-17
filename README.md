@@ -19,12 +19,12 @@ Recreate the provided Discord mobile layout using the CSS properties and techniq
 
 Remember to work with a fixed width of `512px`.
 
-### 🔎 Notes
+**Notes**
 
 - The fonts used are **DM Sans** and **Sigmar**, both available on Google Fonts.
 - The download icon was created using **Bootstrap Icons**.
 
-### ⭐ Bonus
+**Bonus**
 
 Refer to the provided `bonus.png` image to recreate the following additional features.
 
@@ -38,7 +38,7 @@ Some of these challenges will require a bit of research!
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 💡 What I Learned
+## 🧠 What I learned
 
 - Recreating a mobile-oriented layout using HTML and CSS.
 - Working with fixed-width layouts.
