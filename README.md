@@ -47,6 +47,6 @@ Some of these challenges will require a bit of research!
 - Exploring CSS gradients and element alignment.
 - Embedding videos with autoplay and loop functionality.
 
-## ©️ Credits
+## Credits
 
 Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025-2026).
