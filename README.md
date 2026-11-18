@@ -19,20 +19,20 @@ Recreate the provided Discord mobile layout using the CSS properties and techniq
 
 Remember to work with a fixed width of `512px`.
 
-**Notes**
+#### Bonus
 
-- The fonts used are **DM Sans** and **Sigmar**, both available on Google Fonts.
-- The download icon was created using **Bootstrap Icons**.
-
-**Bonus**
-
-Refer to the provided `bonus.png` image to recreate the following additional features.
+Refer to the provided `bonus.png` image to recreate the following additional features. 
 
 Some of these challenges will require a bit of research!
 
 - Align the card icons at the top while keeping them perfectly centered horizontally.
 - Apply a gradient to the card backgrounds instead of using solid colors. There are several ways to achieve this effect.
 - Instead of inserting an image into the cards, try embedding a video that starts playing automatically when the page loads and repeats in a loop.
+
+##### Notes
+
+- The fonts used are **DM Sans** and **Sigmar**, both available on Google Fonts.
+- The download icon was created using **Bootstrap Icons**.
 
 ## Technologies
 
