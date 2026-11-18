@@ -4,7 +4,7 @@
 
 Recreating the Discord mobile layout using HTML and CSS.
 
-## Project Overview
+## Project overview
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
