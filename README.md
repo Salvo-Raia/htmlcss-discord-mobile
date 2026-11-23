@@ -8,7 +8,7 @@ Recreating the Discord mobile layout using HTML and CSS.
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| htmlcss-discord-mobile | Discord Mobile | Exercise | HTML, CSS & Responsive layout | 04/50 |
+| htmlcss-discord-mobile | Discord Mobile | Exercise | HTML, CSS, responsive layout | 04/50 |
 
 ## Assignment
 
