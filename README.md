@@ -18,7 +18,7 @@ Remember to work with a fixed width of `512px`.
 
 #### Bonus challenge
 
-Refer to the provided `bonus.png` image to recreate the following additional features. 
+Try to implement the following additional features, using the provided `bonus.png` image as a reference.
 
 - Align the card icons at the top while keeping them perfectly centered horizontally.
 - Apply a gradient to the card backgrounds instead of using solid colors. There are several ways to achieve this effect.
